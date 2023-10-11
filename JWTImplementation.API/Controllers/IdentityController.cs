@@ -40,12 +40,19 @@ namespace JWTImplementation.API.Controllers
             return Ok($"Hello {user.Identity?.Name}. This is your secret.");
         }
 
-
         [Authorize(Policy = IdentityPolicy.AdminPolicyName)]
         [HttpGet("UsingPolicy")]
         public IActionResult UsingPolicy()
         {
             return Ok("You're admin!");
+        }
+
+        [Authorize]
+        [RequiredClaims(IdentityPolicy.AdminClaimName, "true")]
+        [HttpGet("WithCustomAttribute")]
+        public IActionResult WithCustomAttribute()
+        {
+            return Ok("You have a valid admin claim!");
         }
 
         #region Private Methods
