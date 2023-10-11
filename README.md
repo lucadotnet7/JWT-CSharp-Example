@@ -1,6 +1,6 @@
 <h1> JWT-CSharp-Example </h1>
 
-<p> style="color: grey;"> This is an example of how to implement Json Web Token in C# APIs </p>
+<p style="color: grey;"> This is an example of how to implement Json Web Token in C# APIs </p>
 
 <h2>How can you run this project: </h2>
 <ul>
@@ -24,7 +24,7 @@
 
 <h1> JWT-CSharp-Example </h1>
 
-<p> style="color: grey;"> Este es un ejemplo de como implementar Json Web Token en APIs con C# </p>
+<p style="color: grey;"> Este es un ejemplo de como implementar Json Web Token en APIs con C# </p>
 
 <h2>Como ejecutar el proyecto: </h2>
 <ul>
