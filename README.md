@@ -33,8 +33,8 @@
 <ul>
   <li>Debes clonar este repositorio en una máquina local</li>
   <li>Muevete a la carpeta que contiene este proyecto</li>
-  <li>Ejecuta el siguiente comando `dotnet build` en la consola</li>
-  <li>Ejecuta el siguiente comando `dotnet run` en la consola</li>
+  <li>Ejecuta el siguiente comando <i>dotnet build</i> en la consola</li>
+  <li>Ejecuta el siguiente comando <i>dotnet run</i> en la consola</li>
   <li>Ahora ya puedes probar los endpoints con Postman</li>
 </ul>
 
