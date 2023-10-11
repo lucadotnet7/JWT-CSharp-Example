@@ -8,7 +8,8 @@
 <ul>
   <li>You need clone this repository in local machine</li>
   <li>Move to the project container folder</li>
-  <li>Run this command `dotnet build` in console</li>
+  <li>Run the following command in console</li>
+  `dotnet build`
   <li>Run this command `dotnet run` in console</li>
   <li>Now you can test the endpoints with postman</li>
 </ul>
