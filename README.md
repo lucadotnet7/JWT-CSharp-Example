@@ -1,3 +1,5 @@
+**English**
+
 <h1> JWT-CSharp-Example </h1>
 
 <p>This is an example of how to implement Json Web Token in C# APIs</p>
@@ -6,8 +8,8 @@
 <ul>
   <li>You need clone this repository in local machine</li>
   <li>Move to the project container folder</li>
-  <li>Run this command <i>dotnet build</i> in console</li>
-  <li>Run this command <i>dotnet run</i> in console</li>
+  <li>Run this command `dotnet build` in console</li>
+  <li>Run this command `dotnet run` in console</li>
   <li>Now you can test the endpoints with postman</li>
 </ul>
 
@@ -22,6 +24,7 @@
 </hr>
 </br>
 
+**Español**
 <h1> JWT-CSharp-Example </h1>
 
 <p>Este es un ejemplo de como implementar Json Web Token en APIs con C#</p>
@@ -30,8 +33,8 @@
 <ul>
   <li>Debes clonar este repositorio en una máquina local</li>
   <li>Muevete a la carpeta que contiene este proyecto</li>
-  <li>Ejecuta el siguiente comando <i>dotnet build</i> en la consola</li>
-  <li>Ejecuta el siguiente comando <i>dotnet run</i> en la consola</li>
+  <li>Ejecuta el siguiente comando `dotnet build` en la consola</li>
+  <li>Ejecuta el siguiente comando `dotnet run` en la consola</li>
   <li>Ahora ya puedes probar los endpoints con Postman</li>
 </ul>
 
